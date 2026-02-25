@@ -1,4 +1,4 @@
-public class IfElseDemo {
+public class IfelseDemo {
 
  public static void main(String[] args) {
     int age = 23;
@@ -8,7 +8,7 @@ public class IfElseDemo {
 
     }
     else {
-        System.out.println("you are a minor")
+        System.out.println("You are a minor");
     }
  }
 }
